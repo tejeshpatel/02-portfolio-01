@@ -1,0 +1,101 @@
+* {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 40px;
+}
+
+
+body header {
+    border-bottom: white;
+
+}
+
+.titleTejesh {
+font-size: 10ex;
+float: left;
+}
+
+/* this is for the links on top right */
+body header ul li {
+    float: right;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+
+.professionalpic {
+    height: auto;
+    width: 15%;
+    margin-top: 1%;
+    margin-right: 100%;
+}
+
+
+.about-me {
+    margin-top: 5%;
+
+}
+
+.aboutmeheader {
+    margin-top: 5%;
+    border: 100em;
+    font-size: 6ex;
+}
+
+
+.projectsheader {
+    margin-top: 5%;
+    border: 100em;
+    font-size: 6ex;
+}
+
+.contactmeheader {
+    margin-top: 5%;
+    border: 100em;
+    font-size: 6ex;
+}
+
+.Work li{
+    margin-top: 1%;
+    position: relative;
+ 
+}
+
+.projects {
+    margin-top: 1%;
+}
+
+.randompic1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 1px red solid;
+}
+
+.randompic2 {
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 1px red solid;
+}
+
+
+
+footer {
+margin-top: 40px;    
+}
+
+footer h4 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+footer ul li {
+    display: inline;
+    font-family: 'Gill Sans';
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+
